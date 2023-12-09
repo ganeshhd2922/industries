@@ -1,0 +1,111 @@
+.ind_h2 {
+    text-align: center;
+    font-family: Space Grotesk;
+    font-size: 40px;
+    font-weight: 700;
+    /* line-height: 61px; */
+    /* letter-spacing: 0em; */
+    text-align: center;
+    color: #040484;
+
+
+
+    margin-top: 4rem;
+}
+
+
+.ind_h2 p {
+    color: #38484F;
+}
+
+.ind_head2 {
+    margin-top: 4rem;
+
+    font-family: Space Grotesk;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 0em;
+    /* text-align: left; */
+    color: #38484F;
+
+}
+
+.ind_para {
+    font-family: DM Sans;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0em;
+    
+
+}
+
+.ind_btn1 {
+    width: 224px;
+    height: 60px;
+    color: #38484F;
+    background-color: #A4D5DB;
+    font-family: Space Grotesk;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.005em;
+    border-radius: 50px;
+    border: none;
+    text-align: center;
+    box-shadow: 0px 46px 52px 0px #60E1CB8F;
+
+
+
+}
+.gd_spn{
+    color: #38484F;
+
+}
+.postman{
+    width: 200px;
+}
+
+.postman_img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ind_btn2 {
+    width: 224px;
+    height: 60px;
+    color: #38484F;
+    background-color: #A4D5DB;
+    font-family: Space Grotesk;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.005em;
+    border-radius: 50px;
+    text-align: center;
+    box-shadow: 0px 46px 52px 0px #60E1CB8F;
+
+
+
+}
+.ind_btn3 {
+    width: 224px;
+    height: 60px;
+    color: #38484F;
+    background-color: #A4D5DB;
+    font-family: Space Grotesk;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.005em;
+    border-radius: 50px;
+   
+    text-align: center;
+    box-shadow: 0px 46px 52px 0px #60E1CB8F;
+
+
+
+}
+
+

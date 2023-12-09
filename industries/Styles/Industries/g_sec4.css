@@ -1,0 +1,61 @@
+.gd_text1{
+font-family: Space Grotesk;
+font-size: 36px;
+font-weight: 700;
+line-height: 42px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+
+.ind_text-1{
+font-family: Space Grotesk;
+font-size: 36px;
+font-weight: 700;
+line-height: 42px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.ind_text-2{
+    font-family: DM Sans;
+font-size: 20px;
+font-weight: 400;
+line-height: 32px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.ul-ind{
+    font-family: DM Sans;
+font-size: 15px;
+font-weight: 400;
+line-height: 32px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.ind_Enq-1{
+    width: 224px;
+    height: 60px;
+    color: #38484F;
+    background-color: #A4D5DB;
+    font-family: Space Grotesk;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.005em;
+    border-radius: 50px;
+    text-align: center;
+    box-shadow: 0px 46px 52px 0px #60E1CB8F;
+
+
+}
+
+.ind_nimg{
+    width: 500px;
+}
+
